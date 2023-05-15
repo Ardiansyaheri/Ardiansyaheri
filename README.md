@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ardiansyaheri
-- 👀 I’m interested in Fullstack Web Development
-- 🌱 I’m currently learning Laravel
+- 👀 I’m interested in Fullstack Web and Mobile Apps Development
+- 🌱 I’m currently Learning Flutter, Laravel, React
 - 💞️ I’m looking to collaborate on company or startup
 - 📫 How to reach me eriardiansyah99@gmail.com
 
